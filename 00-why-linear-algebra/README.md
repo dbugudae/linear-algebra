@@ -11,7 +11,7 @@ and Quantum Computing.
 This repository documents my understanding,
 reasoning, Python practice, and progress.
 
-QuantumStrawHatDJ
+#QuantumStrawHatDJ
 
 
 ## How Linear Algebra Connects to Quantum ML
@@ -31,9 +31,9 @@ In Quantum Computing, vectors represent quantum states and matrices represent qu
 Therefore, understanding Linear Algebra is an important foundation for learning Quantum Machine Learning.
 
 
-Understand the reasoning
+## Understanding the Reasoning
 Think of these two connections:
-- Machine Learning: Numbers → Vectors → Calculations → Predictions
-- Quantum Computing: Quantum states → Vectors → Quantum gates → New quantum states
+- **Machine Learning:** Numbers → Vectors → Calculations → Predictions
+- **Quantum Computing:** Quantum States → Vectors → Quantum Gates → New Quantum States
 
 Both rely on Linear Algebra.
